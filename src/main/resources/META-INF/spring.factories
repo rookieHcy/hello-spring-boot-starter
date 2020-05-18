@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.houcy7.starter.autoconfiguration.HelloAutoConfiguration
